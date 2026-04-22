@@ -1,0 +1,1 @@
+path_db = "shopping.db"
